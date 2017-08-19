@@ -20,13 +20,13 @@ h1, h2, h3, h4 {
   margin: 10px 0 15px;
 }
 
-.nav, nav {
+nav {
   display: inline;
   list-style: none;
   margin: 1em 0;
   padding: 0;
 }
-.nav li, nav li {
+li, nav li {
   display: inline;
   margin-right: 1em;
 }
